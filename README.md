@@ -7,8 +7,9 @@ This repository contains files that I shared in my YouTube video:
 - **LoadSalesTable.ipynb**: A Jupyter Notebook script for loading data from the Excel file into the database.
 
 ## Prerequisites
-- Python 3.x
-- Jupyter Notebook
+- [Python 3.x](https://www.python.org/downloads/)
+- [Visual Studio Code](https://code.visualstudio.com/Download)
+- [SQLiteStudio](https://github.com/pawelsalawa/sqlitestudio/releases)
 - Excel (for .xlsm files)
 
 ## Usage
